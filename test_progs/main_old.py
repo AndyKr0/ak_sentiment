@@ -6,10 +6,10 @@ from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer
 from timeit import default_timer as timer
 
-files_to_analyze = os.listdir("./test_data")
+files_to_analyze = os.listdir("../test_data")
 print(files_to_analyze)
 # Open text file
-with open('./test_data/my_sentences.txt', 'r') as infile:
+with open('../test_data/moon.txt', 'r') as infile:
     EXAMPLE_TEXT = infile.read()
 
 speaker_name = "Dr. Test"
@@ -49,7 +49,7 @@ def demo_vader_instance(text):
 # tokenize sentences
 sentence_list = (sent_tokenize(EXAMPLE_TEXT))
 
-with open("./outputs/test.csv", "wb") as csvfile:
+with open("../outputs/test_2.csv", "wb") as csvfile:
   writer = csv.writer(csvfile, dialect="excel")
   writer.writerow(["sentence_number", "negative_score", "neutral_score", 
                     "positive_score", "compound_score", "processing_time", "text", "speaker_name"])

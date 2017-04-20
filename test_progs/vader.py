@@ -117,7 +117,7 @@ if __name__ == '__main__':
 
     # My Code
     # tokenize text file into sentences
-    with open('./test_data/my_sentences.txt', 'r') as infile:
+    with open('../test_data/moon.txt', 'r') as infile:
         EXAMPLE_TEXT = infile.read()
 
     sentence_list = (sent_tokenize(EXAMPLE_TEXT))

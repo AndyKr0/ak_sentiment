@@ -1,0 +1,83 @@
+sentence_number,negative_score,neutral_score,positive_score,compound_score,processing_time,text,speaker_name
+1,0.0,0.717,0.283,0.7579,0.02844691276550293,"I appreciate your president having made me an honorary visiting professor, and I will assure you that my first lecture will be very brief.",Dr. Test
+2,0.0,0.663,0.337,0.765,0.01851201057434082,"I am delighted to be here, and I'm particularly delighted to be here on this occasion.",Dr. Test
+3,0.097,0.73,0.173,0.5423,0.017872095108032227,"We meet at a college noted for knowledge, in a city noted for progress, in a State noted for strength, and we stand in need of all three, for we meet in an hour of change and challenge, in a decade of hope and fear, in an age of both knowledge and ignorance.",Dr. Test
+4,0.172,0.483,0.345,0.3612,0.017500877380371094,"The greater our knowledge increases, the greater our ignorance unfolds.",Dr. Test
+5,0.0,0.927,0.073,0.6369,0.0186460018157959,"Despite the striking fact that most of the scientists that the world has ever known are alive and working today, despite the fact that this Nation's own scientific manpower is doubling every 12 years in a rate of growth more than three times that of our population as a whole, despite that, the vast stretches of the unknown and the unanswered and the unfinished still far outstrip our collective comprehension.",Dr. Test
+6,0.051,0.949,0.0,-0.1531,0.01871204376220703,"No man can fully grasp how far and how fast we have come, but condense, if you will, the 50,000 years of man's recorded history in a time span of but a half-century.",Dr. Test
+7,0.0,0.939,0.061,0.25,0.020788908004760742,"Stated in these terms, we know very little about the first 40 years, except at the end of them advanced man had learned to use the skins of animals to cover them.",Dr. Test
+8,0.0,1.0,0.0,0.0,0.019073963165283203,"Then about 10 years ago, under this standard, man emerged from his caves to construct other kinds of shelter.",Dr. Test
+9,0.0,1.0,0.0,0.0,0.01737380027770996,Only five years ago man learned to write and use a cart with wheels.,Dr. Test
+10,0.0,1.0,0.0,0.0,0.01949000358581543,Christianity began less than two years ago.,Dr. Test
+11,0.0,1.0,0.0,0.0,0.019170045852661133,"The printing press came this year, and then less than two months ago, during this whole 50-year span of human history, the steam engine provided a new source of power.",Dr. Test
+12,0.0,1.0,0.0,0.0,0.019422054290771484,Newton explored the meaning of gravity.,Dr. Test
+13,0.0,1.0,0.0,0.0,0.01813507080078125,Last month electric lights and telephones and automobiles and airplanes became available.,Dr. Test
+14,0.0,0.819,0.181,0.6597,0.019335031509399414,"Only last week did we develop penicillin and television and nuclear power, and now if America's new spacecraft succeeds in reaching Venus, we will have literally reached the stars before midnight tonight.",Dr. Test
+15,0.44,0.501,0.059,-0.9178,0.02040696144104004,"This is a breathtaking pace, and such a pace cannot help but create new ills as it dispels old, new ignorance, new problems, new dangers.",Dr. Test
+16,0.0,0.522,0.478,0.875,0.01874709129333496,"Surely the opening vistas of space promise high costs and hardships, as well as high reward.",Dr. Test
+17,0.087,0.913,0.0,-0.2057,0.01774907112121582,"So it is not surprising that some would have us stay where we are a little longer to rest, to wait.",Dr. Test
+18,0.0,0.912,0.088,0.4215,0.018815994262695312,"But this city of Houston, this State of Texas, this country of the United States was not built by those who waited and rested and wished to look behind them.",Dr. Test
+19,0.0,1.0,0.0,0.0,0.019772052764892578,This country was conquered by those who moved forward--and so will space.,Dr. Test
+20,0.047,0.637,0.316,0.9287,0.019006013870239258,"William Bradford, speaking in 1630 of the founding of the Plymouth Bay Colony, said that all great and honorable actions are accompanied with great difficulties, and both must be enterprised and overcome with answerable courage.",Dr. Test
+21,0.0,0.75,0.25,0.7906,0.019296884536743164,"If this capsule history of our progress teaches us anything, it is that man, in his quest for knowledge and progress, is determined and cannot be deterred.",Dr. Test
+22,0.04,0.766,0.193,0.8126,0.019129037857055664,"The exploration of space will go ahead, whether we join in it or not, and it is one of the great adventures of all time, and no nation which expects to be the leader of other nations can expect to stay behind in the race for space.",Dr. Test
+23,0.0,0.957,0.043,0.2732,0.019488811492919922,"Those who came before us made certain that this country rode the first waves of the industrial revolutions, the first waves of modern invention, and the first wave of nuclear power, and this generation does not intend to founder in the backwash of the coming age of space.",Dr. Test
+24,0.0,1.0,0.0,0.0,0.017731189727783203,We mean to be a part of it--we mean to lead it.,Dr. Test
+25,0.036,0.755,0.21,0.8945,0.020634174346923828,"For the eyes of the world now look into space, to the moon and to the planets beyond, and we have vowed that we shall not see it governed by a hostile flag of conquest, but by a banner of freedom and peace.",Dr. Test
+26,0.177,0.823,0.0,-0.5106,0.01789093017578125,"We have vowed that we shall not see space filled with weapons of mass destruction, but with instruments of knowledge and understanding.",Dr. Test
+27,0.0,0.891,0.109,0.4215,0.019074201583862305,"Yet the vows of this Nation can only be fulfilled if we in this Nation are first, and, therefore, we intend to be first.",Dr. Test
+28,0.0,0.718,0.282,0.936,0.01856398582458496,"In short, our leadership in science and in industry, our hopes for peace and security, our obligations to ourselves as well as others, all require us to make this effort, to solve these mysteries, to solve them for the good of all men, and to become the world's leading space-faring nation.",Dr. Test
+29,0.0,0.701,0.299,0.9153,0.019988059997558594,"We set sail on this new sea because there is new knowledge to be gained, and new rights to be won, and they must be won and used for the progress of all people.",Dr. Test
+30,0.124,0.734,0.141,0.0772,0.017834901809692383,"For space science, like nuclear science and all technology, has no conscience of its own.",Dr. Test
+31,0.185,0.604,0.211,0.128,0.020431995391845703,"Whether it will become a force for good or ill depends on man, and only if the United States occupies a position of pre-eminence can we help decide whether this new ocean will be a sea of peace or a new terrifying theater of war.",Dr. Test
+32,0.173,0.79,0.037,-0.831,0.019429922103881836,"I do not say the we should or will go unprotected against the hostile misuse of space any more than we go unprotected against the hostile use of land or sea, but I do say that space can be explored and mastered without feeding the fires of war, without repeating the mistakes that man has made in extending his writ around this globe of ours.",Dr. Test
+33,0.575,0.425,0.0,-0.8807,0.018640995025634766,"There is no strife, no prejudice, no national conflict in outer space as yet.",Dr. Test
+34,0.302,0.698,0.0,-0.3818,0.017045974731445312,Its hazards are hostile to us all.,Dr. Test
+35,0.0,0.595,0.405,0.8807,0.01946091651916504,"Its conquest deserves the best of all mankind, and its opportunity for peaceful cooperation many never come again.",Dr. Test
+36,0.0,1.0,0.0,0.0,0.018903017044067383,"But why, some say, the moon?",Dr. Test
+37,0.0,1.0,0.0,0.0,0.016813993453979492,Why choose this as our goal?,Dr. Test
+38,0.0,0.811,0.189,0.2732,0.019649982452392578,And they may well ask why climb the highest mountain?,Dr. Test
+39,0.0,1.0,0.0,0.0,0.01776719093322754,"Why, 35 years ago, fly the Atlantic?",Dr. Test
+40,0.0,0.625,0.375,0.34,0.018203020095825195,Why does Rice play Texas?,Dr. Test
+41,0.0,1.0,0.0,0.0,0.01846480369567871,We choose to go to the moon.,Dr. Test
+42,0.046,0.717,0.237,0.9531,0.02134394645690918,"We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.",Dr. Test
+43,0.049,0.903,0.048,-0.0018,0.02018904685974121,It is for these reasons that I regard the decision last year to shift our efforts in space from low to high gear as among the most important decisions that will be made during my incumbency in the office of the Presidency.,Dr. Test
+44,0.0,0.694,0.306,0.8115,0.01923394203186035,In the last 24 hours we have seen facilities now being created for the greatest and most complex exploration in man's history.,Dr. Test
+45,0.104,0.803,0.093,-0.128,0.018837928771972656,"We have felt the ground shake and the air shattered by the testing of a Saturn C-1 booster rocket, many times as powerful as the Atlas which launched John Glenn, generating power equivalent to 10,000 automobiles with their accelerators on the floor.",Dr. Test
+46,0.043,0.885,0.072,0.2263,0.021379947662353516,"We have seen the site where the F-1 rocket engines, each one as powerful as all eight engines of the Saturn combined, will be clustered together to make the advanced Saturn missile, assembled in a new building to be built at Cape Canaveral as tall as a 48 story structure, as wide as a city block, and as long as two lengths of this field.",Dr. Test
+47,0.0,1.0,0.0,0.0,0.018158912658691406,Within these last 19 months at least 45 satellites have circled the earth.,Dr. Test
+48,0.0,0.831,0.169,0.7713,0.02002692222595215,"Some 40 of them were ""made in the United States of America"" and they were far more sophisticated and supplied far more knowledge to the people of the world than those of the Soviet Union.",Dr. Test
+49,0.0,0.909,0.091,0.2247,0.018188953399658203,The Mariner spacecraft now on its way to Venus is the most intricate instrument in the history of space science.,Dr. Test
+50,0.094,0.906,0.0,-0.34,0.020264863967895508,The accuracy of that shot is comparable to firing a missile from Cape Canaveral and dropping it in this stadium between the the 40-yard lines.,Dr. Test
+51,0.0,0.667,0.333,0.6124,0.01866602897644043,Transit satellites are helping our ships at sea to steer a safer course.,Dr. Test
+52,0.099,0.901,0.0,-0.296,0.019410133361816406,"Tiros satellites have given us unprecedented warnings of hurricanes and storms, and will do the same for forest fires and icebergs.",Dr. Test
+53,0.217,0.783,0.0,-0.4382,0.017791032791137695,"We have had our failures, but so have others, even if they do not admit them.",Dr. Test
+54,0.0,1.0,0.0,0.0,0.0198361873626709,And they may be less public.,Dr. Test
+55,0.0,0.867,0.133,0.3182,0.018439054489135742,"To be sure, we are behind, and will be behind for some time in manned flight.",Dr. Test
+56,0.0,1.0,0.0,0.0,0.01897120475769043,"But we do not intend to stay behind, and in this decade, we shall make up and move ahead.",Dr. Test
+57,0.0,0.895,0.105,0.5719,0.019309043884277344,"The growth of our science and education will be enriched by new knowledge of our universe and environment, by new techniques of learning and mapping and observation, by new tools and computers for industry, medicine, the home as well as the school.",Dr. Test
+58,0.0,0.821,0.179,0.34,0.018269062042236328,"Technical institutions, such as Rice, will reap the harvest of these gains.",Dr. Test
+59,0.0,0.757,0.243,0.7506,0.01920795440673828,"And finally, the space effort itself, while still in its infancy, has already created a great number of new companies, and tens of thousands of new jobs.",Dr. Test
+60,0.0,0.825,0.175,0.6736,0.018884897232055664,"Space and related industries are generating new demands in investment and skilled personnel, and this city and this State, and this region, will share greatly in this growth.",Dr. Test
+61,0.0,1.0,0.0,0.0,0.018716096878051758,What was once the furthest outpost on the old frontier of the West will be the furthest outpost on the new frontier of science and space.,Dr. Test
+62,0.0,1.0,0.0,0.0,0.017787933349609375,"Houston, your City of Houston, with its Manned Spacecraft Center, will become the heart of a large scientific and engineering community.",Dr. Test
+63,0.0,0.943,0.057,0.3818,0.020751953125,"During the next 5 years the National Aeronautics and Space Administration expects to double the number of scientists and engineers in this area, to increase its outlays for salaries and expenses to $60 million a year; to invest some $200 million in plant and laboratory facilities; and to direct or contract for new space efforts over $1 billion from this Center in this City.",Dr. Test
+64,0.0,0.658,0.342,0.6369,0.01842808723449707,"To be sure, all this costs us all a good deal of money.",Dr. Test
+65,0.0,0.912,0.088,0.3612,0.01909184455871582,"This year's space budget is three times what it was in January 1961, and it is greater than the space budget of the previous eight years combined.",Dr. Test
+66,0.051,0.949,0.0,-0.0352,0.01958608627319336,"That budget now stands at $5,400 million a year--a staggering sum, though somewhat less than we pay for cigarettes and cigars every year.",Dr. Test
+67,0.0,0.833,0.167,0.8625,0.019993066787719727,"Space expenditures will soon rise some more, from 40 cents per person per week to more than 50 cents a week for every man, woman and child in the United Stated, for we have given this program a high national priority--even though I realize that this is in some measure an act of faith and vision, for we do not now know what benefits await us.",Dr. Test
+68,0.019,0.911,0.07,0.8074,0.02494192123413086,"But if I were to say, my fellow citizens, that we shall send to the moon, 240,000 miles away from the control station in Houston, a giant rocket more than 300 feet tall, the length of this football field, made of new metal alloys, some of which have not yet been invented, capable of standing heat and stresses several times more than have ever been experienced, fitted together with a precision better than the finest watch, carrying all the equipment needed for propulsion, guidance, control, communications, food and survival, on an untried mission, to an unknown celestial body, and then return it safely to earth, re-entering the atmosphere at speeds of over 25,000 miles per hour, causing heat about half that of the temperature of the sun--almost as hot as it is here today--and do all this, and do it right, and do it first before this decade is out--then we must be bold.",Dr. Test
+69,0.0,0.815,0.185,0.4336,0.021292924880981445,"I'm the one who is doing all the work, so we just want you to stay cool for a minute.",Dr. Test
+70,0.076,0.924,0.0,-0.1027,0.017544031143188477,"However, I think we're going to do it, and I think that we must pay what needs to be paid.",Dr. Test
+71,0.112,0.888,0.0,-0.2263,0.017246007919311523,"I don't think we ought to waste any money, but I think we ought to do the job.",Dr. Test
+72,0.0,1.0,0.0,0.0,0.01794290542602539,And this will be done in the decade of the sixties.,Dr. Test
+73,0.0,1.0,0.0,0.0,0.01828789710998535,It may be done while some of you are still here at school at this college and university.,Dr. Test
+74,0.0,1.0,0.0,0.0,0.018185853958129883,It will be done during the term of office of some of the people who sit here on this platform.,Dr. Test
+75,0.0,1.0,0.0,0.0,0.018741846084594727,But it will be done.,Dr. Test
+76,0.0,1.0,0.0,0.0,0.018804073333740234,And it will be done before the end of this decade.,Dr. Test
+77,0.0,0.647,0.353,0.9001,0.01957082748413086,I am delighted that this university is playing a part in putting a man on the moon as part of a great national effort of the United States of America.,Dr. Test
+78,0.125,0.703,0.173,0.128,0.019878149032592773,"Many years ago the great British explorer George Mallory, who was to die on Mount Everest, was asked why did he want to climb it.",Dr. Test
+79,0.0,1.0,0.0,0.0,0.018542051315307617,"He said, ""Because it is there.""",Dr. Test
+80,0.0,0.741,0.259,0.8126,0.017915964126586914,"Well, space is there, and we're going to climb it, and the moon and the planets are there, and new hopes for knowledge and peace are there.",Dr. Test
+81,0.099,0.616,0.285,0.7458,0.01885199546813965,"And, therefore, as we set sail we ask God's blessing on the most hazardous and dangerous and greatest adventure on which man has ever embarked.",Dr. Test
+82,0.0,0.286,0.714,0.3612,0.01704096794128418,Thank you.,Dr. Test

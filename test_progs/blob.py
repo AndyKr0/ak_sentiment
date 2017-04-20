@@ -5,7 +5,7 @@ from textblob.sentiments import NaiveBayesAnalyzer
 
 
 # tokenize text file into sentences
-with open('./test_data/my_sentences.txt', 'r') as infile:
+with open('../test_data/1981-Reagan.txt', 'r') as infile:
     EXAMPLE_TEXT = infile.read()
 
 blob_default = TextBlob(EXAMPLE_TEXT)
@@ -16,7 +16,7 @@ for sentence in blob_default.sentences:
     print(sentence.sentiment)
     print('--------------')
 
-for sentence in blob_naive.sentences:
-    print(sentence)
-    print(sentence.sentiment)
-    print('--------------')
+# for sentence in blob_naive.sentences:
+#     print(sentence)
+#     print(sentence.sentiment)
+#     print('--------------')
